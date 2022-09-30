@@ -1,0 +1,68 @@
+#EXTINF:-1 tvg-id="ChileVision.cl" tvg-logo="https://i.imgur.com/GAsSUqn.png" group-title="General",ChileVisión (720p) [Geo-blocked]
+http://chv-m3u.chorroaeboy.repl.co
+#EXTINF:-1 tvg-id="CNNChile.cl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/512px-CNN_Chile_logo_2017.svg.png" group-title="News",CNN Chile (720p)
+https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RCKTV.cl" tvg-logo="https://i.imgur.com/0k6ZVMo.png" group-title="Music",RCK TV (720p)
+https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AopOaEX.jpg" group-title="CHILE", CHV | HD
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HN9mYDP.png" group-title="CHILE", MEGA | HD
+http://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" group-title="Entretenimiento", TC
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:-1,ESPN HD www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+#EXTINF:-1,ESPN 2 www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/index.m3u8
+#EXTINF:-1,[COLOR WHITE] [/COLOR] ESPN2 HD www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(04)/index.m3u8
+#EXTINF:-1,Deportes ESPN 3 www.achoAPPS.com
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN3)/index.m3u8
+#EXTINF:-1,TDN SPORT
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/Stream(05)/index.m3u8
+#EXTINF:-1,DEPORTES:AD Sports 1 HD
+http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8
+#EXTINF:-1,Abu Dhabi Sports 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1,DEPORTES:ESPN www.achoAPPS.com
+http://bit.ly/2AoZTVs
+#EXTINF:-1,DEPORTES:Real Madrid TV www.achoAPPS.com
+http://bit.ly/2x1T8YL
+#EXTINF:-1,CDO HD www.achoAPPS.com
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w102518198.m3u8
+#EXTINF:-1,CDO DEPORTES ESPANA www.achoAPPS.com
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w1477672342.m3u8
+#EXTINF:-1,CDF DEPORTES EN VIVO www.achoAPPS.com
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+#EXTINF:-1,Eurosport HD 
+http://203.154.243.89:1209
+#EXTINF:-1 group-title="Lista 04",  AyM Sports
+http://clubtv.link/iptv/sep27/tvpremium.php?c=49&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  beIN Sports
+http://clubtv.link/iptv/sep27/tvpremium.php?c=56&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  beIN Sports La Liga
+http://clubtv.link/iptv/sep27/tvpremium.php?c=57&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  ESPN 2
+http://clubtv.link/iptv/sep27/tvpremium.php?c=90&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  ESPN 3
+http://clubtv.link/iptv/sep27/tvpremium.php?c=91&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  ESPN Deportes
+http://clubtv.link/iptv/sep27/tvpremium.php?c=92&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  ESPN Plus
+http://clubtv.link/iptv/sep27/tvpremium.php?c=93&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  FOX Sports
+http://clubtv.link/iptv/sep27/tvpremium.php?c=105&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  FOX Sports 2
+http://clubtv.link/iptv/sep27/tvpremium.php?c=106&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  FOX Sports 3
+http://clubtv.link/iptv/sep27/tvpremium.php?c=107&f=.m3u8
+#EXTINF:-1 group-title="Lista 04", CANADA | SPORTSNET EAST
+http://clubtv.link/iptv/sep27/tvpremium.php?c=110&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  Gol TV
+http://clubtv.link/iptv/sep27/tvpremium.php?c=115&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  TVC Deportes
+http://clubtv.link/iptv/sep27/tvpremium.php?c=162&f=.m3u8
+#EXTINF:-1 group-title="Lista 04",  TyC Sports
+http://clubtv.link/iptv/sep27/tvpremium.php?c=163&f=.m3u8
